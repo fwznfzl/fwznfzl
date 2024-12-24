@@ -26,7 +26,7 @@
   - Creative solutions for real-world problems through full-stack applications.  
 
 - 📫 How to reach me:  
-  - Email: fwznfzl@example.com  
+  - fawzanfaizal12@gmail.com  
   - [LinkedIn](https://www.linkedin.com/)  
   - [GitHub](https://github.com/fwznfzl)  
 
@@ -38,4 +38,4 @@
 
 --
 
-📌 Check out my repositories and projects** to see how I’m turning my passion for software development into reality.
+📌 Check out my repositories and projects to see how I’m turning my passion for software development into reality.
